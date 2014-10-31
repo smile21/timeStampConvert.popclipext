@@ -5,10 +5,10 @@
 
 ### 用法
 
--- cd path/to/timeStampConvert.popclipext
--- open ./
--- install "timeStampConvert.popclipext"
--- 选中时间戳,点击"F"
++ cd path/to/timeStampConvert.popclipext
++ open ./
++ install "timeStampConvert.popclipext"
++ 选中时间戳,点击"F"
 
 
 
